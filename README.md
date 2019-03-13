@@ -1,9 +1,17 @@
-image_class
+Image Classification Catch-up
 ==============================
 
-Image Class with Portland d data group
+Welcome!  This was designed to help people catch up quickly in the Image Classification tutorial held by the Portland Data Science Group.  Hopefully, this will help people catch up quickly during the later weeks.
 
-Project Organization
+About the Data
+------------
+
+The data set (ADE20K) was created by MIT for the scene parsing challenge.  Its a great set and has a large set of hand-segmented images.  However, its 4GB!  To help with this tutorial, a small and medium sized set were created.
+
+A download of the small and medium datasets is available here: http://dive-into.info.  If you want the large dataset, head over to http://groups.csail.mit.edu/vision/datasets/ADE20K/.
+
+
+Project Organization from CookieCutter
 ------------
 
     ├── LICENSE
